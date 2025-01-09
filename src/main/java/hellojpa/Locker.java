@@ -1,4 +1,4 @@
-package hellojap;
+package hellojpa;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
